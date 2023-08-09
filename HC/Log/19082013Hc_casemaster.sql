@@ -1,0 +1,2 @@
+update hc_casemaster set Present_status='Running in Court',Due_dateparawise='2013-9-12',Last_date='2013-7-12',T5=T5  where Serial='1';
+update hc_casemaster set Case_no='Wp(c) Honourable supreme court',Dep_code='3',Branch_code='3',Brief_history='Regarding appointment of SC and St',Present_status='working',File_no='NDC.23/A',Due_dateparawise='2013-11-21',Last_date='2007-3-12',Signed_by='Inspector of School,Nalbari ',T5=T5  where Serial='4';

@@ -1,0 +1,809 @@
+ force-0 date  File doesnot not exist
+Log/*.*
+Log/20170309Old_record.sql
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/03112017query.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+ force-0 date 22-01-201812:55:01
+Log/*.*
+Log/Baki_Payment_19042018.sql
+Log/Bakijai_Main_19042018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/02052018query.sql
+Log/Baki_Payment_19042018.sql
+Log/Bakijai_Main_19042018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Baki_Payment_11052018.sql
+Log/Bakijai_Main_11052018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Baki_Payment_11052018.sql
+Log/Bakijai_Main_11052018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Bakijai_Casedate_03072018.sql
+Log/Bakijai_Main_03072018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/03072018query.sql
+Log/Bakijai_Casedate_03072018.sql
+Log/Bakijai_Main_03072018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Baki_Payment_01082018.sql
+Log/Bakijai_Main_01082018.sql
+Log/Query.txt
+database/egov.sql to D:/egov.sql
+Log/*.*
+Log/Baki_Payment_01082018.sql
+Log/Baki_Payment_28012019.sql
+Log/Bakijai_Main_01082018.sql
+Log/Bakijai_Main_28012019.sql
+Log/FailLog_28012019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Baki_Payment_28012019.sql
+Log/Bakijai_Main_28012019.sql
+Log/FailLog_28012019.sql
+Log/Petition_master_28052019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Petition_master_28052019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Baki_Payment_24072019.sql
+Log/Bakijai_Main_24072019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Dak_28102019.sql
+Log/Pwd_28102019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/FailLog_29102019.sql
+Log/Pwd_29102019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Dak_30102019.sql
+Log/FailLog_30102019.sql
+Log/Pwd_30102019.sql
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Dak_30102019.sql
+Log/FailLog_30102019.sql
+Log/Pwd_30102019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/FailLog_31102019.sql
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/FailLog_31102019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Pwd_04112019.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Petition_master_01022020.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Petition_master_01022020.sql
+Log/Petition_master_04022020.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Petition_master_04022020.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Baki_Payment_25022020.sql
+Log/Bakijai_Main_25022020.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/Baki_Payment_25022020.sql
+Log/Bakijai_Main_25022020.sql
+Log/Officer_13032020.sql
+Log/Query.txt
+database/egov.sql to F:/egov.sql
+Log/*.*
+Log/13082021query.sql
+Log/14102020query.sql
+Log/Dak_16082021.sql
+Log/FailLog_13082021.sql
+Log/FailLog_16082021.sql
+Log/Officer_13032020.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_16082021.sql
+Log/Dak_17082021.sql
+Log/FailLog_16082021.sql
+Log/Pwd_16082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_17082021.sql
+Log/Dak_18082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/18082021query.sql
+Log/Dak_18082021.sql
+Log/Dak_19082021.sql
+Log/FailLog_18082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_19082021.sql
+Log/FailLog_19082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_19082021.sql
+Log/Dak_20082021.sql
+Log/FailLog_19082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/20082021query.sql
+Log/Dak_20082021.sql
+Log/Dak_21082021.sql
+Log/FailLog_20082021.sql
+Log/Officer_21082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/21082021query.sql
+Log/Crpc_Main_21082021.sql
+Log/Crpc_Party_21082021.sql
+Log/Crpc_proceeding_21082021.sql
+Log/Dak_21082021.sql
+Log/Dak_23082021.sql
+Log/FailLog_21082021.sql
+Log/Officer_21082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_23082021.sql
+Log/Dak_24082021.sql
+Log/FailLog_24082021.sql
+Log/Query.txt
+Log/Verification_24082021.sql
+Log/Verification_letter_24082021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/24082021query.sql
+Log/25082021query.sql
+Log/Baki_payment_24082021.sql
+Log/Dak_24082021.sql
+Log/Dak_25082021.sql
+Log/Dak_26082021.sql
+Log/FailLog_24082021.sql
+Log/Query.txt
+Log/Verification_24082021.sql
+Log/Verification_letter_24082021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/26082021query.sql
+Log/Baki_payment_31082021.sql
+Log/Crpc_Main_31082021.sql
+Log/Crpc_Party_31082021.sql
+Log/Dak_26082021.sql
+Log/Dak_31082021.sql
+Log/FailLog_26082021.sql
+Log/FailLog_31082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_31082021.sql
+Log/Crpc_Main_31082021.sql
+Log/Crpc_Party_31082021.sql
+Log/Dak_01092021.sql
+Log/Dak_31082021.sql
+Log/FailLog_01092021.sql
+Log/FailLog_31082021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/01092021query.sql
+Log/Dak_01092021.sql
+Log/Dak_02092021.sql
+Log/FailLog_01092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_02092021.sql
+Log/Dak_03092021.sql
+Log/FailLog_03092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/03092021query.sql
+Log/Crpc_Main_03092021.sql
+Log/Crpc_Party_03092021.sql
+Log/Dak_03092021.sql
+Log/Dak_04092021.sql
+Log/FailLog_03092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/04092021query.sql
+Log/Dak_04092021.sql
+Log/Dak_06092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/06092021query.sql
+Log/Baki_payment_06092021.sql
+Log/Dak_06092021.sql
+Log/Dak_07092021.sql
+Log/FailLog_06092021.sql
+Log/FailLog_07092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/07092021query.sql
+Log/Crpc_Main_09092021.sql
+Log/Crpc_Party_09092021.sql
+Log/Dak_07092021.sql
+Log/Dak_09092021.sql
+Log/FailLog_07092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/09092021query.sql
+Log/Crpc_Main_09092021.sql
+Log/Crpc_Party_09092021.sql
+Log/Crpc_proceeding_09092021.sql
+Log/Dak_09092021.sql
+Log/Dak_10092021.sql
+Log/FailLog_09092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/11092021query.sql
+Log/Crpc_proceeding_13092021.sql
+Log/Dak_10092021.sql
+Log/Dak_13092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Crpc_proceeding_13092021.sql
+Log/Dak_13092021.sql
+Log/Dak_14092021.sql
+Log/FailLog_14092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/14092021query.sql
+Log/Baki_payment_15092021.sql
+Log/Crpc_main_14092021.sql
+Log/Crpc_proceeding_14092021.sql
+Log/Dak_14092021.sql
+Log/Dak_15092021.sql
+Log/FailLog_14092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/15092021query.sql
+Log/Baki_payment_15092021.sql
+Log/Dak_15092021.sql
+Log/Dak_16092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/16092021query.sql
+Log/Baki_payment_16092021.sql
+Log/Crpc_main_16092021.sql
+Log/Dak_16092021.sql
+Log/Dak_18092021.sql
+Log/Petition_master_18092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/18092021query.sql
+Log/Dak_18092021.sql
+Log/Petition_master_18092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_20092021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_21092021.sql
+Log/Bakijai_main_21092021.sql
+Log/Dak_20092021.sql
+Log/Dak_21092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/21092021query.sql
+Log/Baki_payment_21092021.sql
+Log/Baki_payment_22092021.sql
+Log/Bakijai_main_21092021.sql
+Log/Dak_21092021.sql
+Log/Dak_22092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_22092021.sql
+Log/Dak_22092021.sql
+Log/Dak_23092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_23092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_24092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/24092021query.sql
+Log/Dak_24092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_27092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_27092021.sql
+Log/Dak_28092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_28092021.sql
+Log/Dak_28092021.sql
+Log/Dak_29092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_29092021.sql
+Log/Baki_payment_30092021.sql
+Log/Bakijai_main_29092021.sql
+Log/Dak_29092021.sql
+Log/Dak_30092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/30092021query.sql
+Log/Baki_payment_30092021.sql
+Log/Bakijai_main_30092021.sql
+Log/Dak_30092021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/01102021query.sql
+Log/Crpc_Main_01102021.sql
+Log/Crpc_Party_01102021.sql
+Log/Crpc_proceeding_01102021.sql
+Log/Dak_01102021.sql
+Log/Dak_04102021.sql
+Log/FailLog_01102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/04102021query.sql
+Log/Crpc_proceeding_04102021.sql
+Log/Dak_04102021.sql
+Log/Dak_05102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/05102021query.sql
+Log/Baki_payment_05102021.sql
+Log/Baki_payment_06102021.sql
+Log/Dak_05102021.sql
+Log/Dak_06102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/06102021query.sql
+Log/Baki_payment_06102021.sql
+Log/Dak_06102021.sql
+Log/Dak_07102021.sql
+Log/FailLog_07102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/07102021query.sql
+Log/Baki_payment_07102021.sql
+Log/Crpc_Main_07102021.sql
+Log/Crpc_Party_07102021.sql
+Log/Crpc_proceeding_07102021.sql
+Log/Dak_07102021.sql
+Log/Dak_08102021.sql
+Log/FailLog_07102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/08102021query.sql
+Log/Baki_payment_11102021.sql
+Log/Dak_08102021.sql
+Log/Dak_11102021.sql
+Log/Query.txt
+Log/Village_08102021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_11102021.sql
+Log/Dak_11102021.sql
+Log/Dak_16102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/16102021query.sql
+Log/Baki_payment_16102021.sql
+Log/Crpc_proceeding_16102021.sql
+Log/Dak_16102021.sql
+Log/Dak_19102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/19102021query.sql
+Log/Baki_payment_19102021.sql
+Log/Dak_19102021.sql
+Log/Dak_20102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/20102021query.sql
+Log/Crpc_Main_20102021.sql
+Log/Crpc_Party_20102021.sql
+Log/Dak_20102021.sql
+Log/Dak_21102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_21102021.sql
+Log/Dak_22102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_22102021.sql
+Log/Dak_25102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/25102021query.sql
+Log/Baki_payment_25102021.sql
+Log/Dak_25102021.sql
+Log/Dak_26102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/26102021query.sql
+Log/Dak_26102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_27102021.sql
+Log/FailLog_27102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_28102021.sql
+Log/Dak_27102021.sql
+Log/Dak_28102021.sql
+Log/FailLog_27102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_28102021.sql
+Log/Dak_28102021.sql
+Log/Dak_29102021.sql
+Log/FailLog_28102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_29102021.sql
+Log/Dak_29102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_29102021.sql
+Log/Dak_29102021.sql
+Log/Dak_30102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_30102021.sql
+Log/Dak_30102021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/01112021query.sql
+Log/Crpc_Main_01112021.sql
+Log/Crpc_Party_01112021.sql
+Log/Crpc_proceeding_01112021.sql
+Log/Dak_01112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_02112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_02112021.sql
+Log/Dak_03112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/03112021query.sql
+Log/Baki_payment_08112021.sql
+Log/Crpc_Main_03112021.sql
+Log/Dak_03112021.sql
+Log/Dak_08112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/08112021query.sql
+Log/Baki_payment_08112021.sql
+Log/Dak_08112021.sql
+Log/Dak_09112021.sql
+Log/Pwd_08112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/09112021query.sql
+Log/Dak_09112021.sql
+Log/Dak_11112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/11112021query.sql
+Log/Baki_payment_12112021.sql
+Log/Dak_11112021.sql
+Log/Dak_12112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_Payment_15112021.sql
+Log/Baki_payment_12112021.sql
+Log/Bakijai_Main_15112021.sql
+Log/Dak_12112021.sql
+Log/Dak_15112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_Payment_15112021.sql
+Log/Bakijai_Main_15112021.sql
+Log/Dak_15112021.sql
+Log/Dak_16112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/16112021query.sql
+Log/Baki_Payment_16112021.sql
+Log/Baki_Payment_17112021.sql
+Log/Bakijai_Main_16112021.sql
+Log/Bakijai_Main_17112021.sql
+Log/Dak_16112021.sql
+Log/Dak_17112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/17112021query.sql
+Log/Baki_Payment_17112021.sql
+Log/Baki_Payment_18112021.sql
+Log/Bakijai_Main_17112021.sql
+Log/Bakijai_Main_18112021.sql
+Log/Dak_17112021.sql
+Log/Dak_18112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/18112021query.sql
+Log/Baki_Payment_18112021.sql
+Log/Baki_Payment_20112021.sql
+Log/Bakijai_Main_18112021.sql
+Log/Bakijai_Main_20112021.sql
+Log/Crpc_main_18112021.sql
+Log/Crpc_main_20112021.sql
+Log/Dak_18112021.sql
+Log/Dak_20112021.sql
+Log/Error_20112021.sql
+Log/Officer_18112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_Payment_20112021.sql
+Log/Bakijai_Main_20112021.sql
+Log/Crpc_main_20112021.sql
+Log/Dak_20112021.sql
+Log/Error_20112021.sql
+Log/Query.txt
+Log/Village_20112021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_22112021.sql
+Log/Dak_22112021.sql
+Log/Query.txt
+Log/Village_22112021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_22112021.sql
+Log/Dak_22112021.sql
+Log/Dak_23112021.sql
+Log/Query.txt
+Log/Village_22112021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/23112021query.sql
+Log/Crpc_Main_23112021.sql
+Log/Crpc_Party_23112021.sql
+Log/Crpc_proceeding_23112021.sql
+Log/Dak_23112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_25112021.sql
+Log/Bakijai_Casedate_25112021.sql
+Log/Bakijai_Main_25112021.sql
+Log/Dak_25112021.sql
+Log/FailLog_25112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_25112021.sql
+Log/Bakijai_Casedate_25112021.sql
+Log/Bakijai_Main_25112021.sql
+Log/Dak_25112021.sql
+Log/Error_25112021.sql
+Log/FailLog_25112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_26112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Bakijai_Casedate_29112021.sql
+Log/Bakijai_Main_29112021.sql
+Log/Dak_26112021.sql
+Log/Dak_29112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_29112021.sql
+Log/Bakijai_Casedate_29112021.sql
+Log/Bakijai_Main_29112021.sql
+Log/Dak_29112021.sql
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_29112021.sql
+Log/Bakijai_Casedate_29112021.sql
+Log/Bakijai_Main_29112021.sql
+Log/Dak_29112021.sql
+Log/Dak_30112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_30112021.sql
+Log/Bakijai_main_30112021.sql
+Log/Crpc_main_30112021.sql
+Log/Dak_30112021.sql
+Log/FailLog_30112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Baki_payment_30112021.sql
+Log/Bakijai_main_30112021.sql
+Log/Crpc_main_30112021.sql
+Log/Dak_01122021.sql
+Log/Dak_30112021.sql
+Log/FailLog_30112021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_01122021.sql
+Log/Dak_03122021.sql
+Log/FailLog_01122021.sql
+Log/FailLog_03122021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/03122021query.sql
+Log/Baki_payment_03122021.sql
+Log/Dak_03122021.sql
+Log/FailLog_03122021.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/01062022query.sql
+Log/04062022query.sql
+Log/09062022query.sql
+Log/12052022query.sql
+Log/13052022query.sql
+Log/14062022query.sql
+Log/19052022query.sql
+Log/21052022query.sql
+Log/27052022query.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/FailLog_20062022.sql
+Log/FailLog_27062022.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/FailLog_27062022.sql
+Log/FailLog_29062022.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Dak_29062022.sql
+Log/FailLog_29062022.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/18072022query.sql
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql
+Log/*.*
+Log/Query.txt
+database/egovbackup.sql to F:/egovbackup.sql

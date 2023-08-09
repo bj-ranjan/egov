@@ -1,0 +1,171 @@
+<html>
+<head>
+<title>Edit Form forcircle</title>
+</head>
+<script language=javascript>
+<!--
+function home()
+{
+window.location="mainmenu.php?tag=1";
+}
+</script>
+<BODY>
+<script language=javascript>
+<!--
+</script>
+<body onload=setMe()>
+<?php
+session_start();
+require_once './class/class.circle.php';
+require_once './class/utility.class.php';
+$objUtility=new Utility();
+if ($objUtility->VerifyRoll()==-1)
+header( 'Location: index.php');
+
+$objCircle=new Circle();
+if (isset($_GET['tag']))
+$code=$_GET['tag'];
+else
+$code=0;
+if ($code==0) //Initial Loading
+{
+echo "<table border=0 cellpadding=0 cellspacing=0 align=center style=border-collapse: collapse; ALIGN=CENTER width=50%>";
+echo "<form name=startform action=Edit_circle.php?tag=1  method=POST >";
+echo "<tr>";
+$condition=array(1=>'=',2=>'<',3=>'>',4=>'<>');
+echo "<td align=center>";
+echo "Cir_code";
+echo "<select name=cond1>";
+echo "<option  value=".chr(34).$condition[1].chr(34).">=";
+echo "<option  value=".chr(34).$condition[2].chr(34)."><";
+echo "<option  value=".chr(34).$condition[3].chr(34).">>";
+echo "</select>";
+echo "<input type=text size=9 name=mval1>";
+echo "</td>";
+echo "<td align=center>";
+echo "<input type=submit value=GO >";
+echo "<input type=button value=Menu name=back1 id=back2 onclick=home()>";
+echo "</td>";
+echo "</tr>";
+echo "</table>";
+echo "</form>";
+} //$code=0
+if ($code==1) //Next Loading aftre postback
+{
+$sql="";if (strlen($_POST['mval1'])>0)
+$sql=$sql."Cir_code".$_POST['cond1']."'".$_POST['mval1']."' and ";
+$sql=$sql." 1=1";
+?>
+<table border=1 cellpadding=0 cellspacing=0 align=center style=border-collapse: collapse; width=90%>
+<form name=myform action=Edit_circle.php?tag=2  method=POST >
+<tr>
+<td align=center bgcolor=#CCFFCC><font size=3 face=arial color=blue>
+Cir_code
+</td>
+<td align=center bgcolor=#CCFFCC><font size=3 face=arial color=blue>
+Circle
+</td>
+<td align=center bgcolor=#CCFFCC><font size=3 face=arial color=blue>
+Circle_ass
+</td>
+</tr>
+<?php
+$rowcount=0;
+$objCircle->setCondString($sql);
+$row=$objCircle->getAllRecord();
+for($ii=0;$ii<count($row);$ii++)
+{
+$rowcount++;
+?>
+<tr>
+<?php  $Cir_code="Cir_code".$rowcount; ?>
+<td align=center>
+<input type=text name="<?php echo $Cir_code;?>" size=5    value="<?php echo $row[$ii]['Cir_code'];?>" style="font-family: Arial;background-color:white;color:black;font-size: 18px" readonly>
+<input type=hidden name=Old_<?php echo $Cir_code;?>  value="<?php echo $row[$ii]['Cir_code'];?>">
+</td>
+<?php  $Circle="Circle".$rowcount; ?>
+<td align=center>
+<input type=text name="<?php echo $Circle;?>" size=30    value="<?php echo $row[$ii]['Circle'];?>" style="font-family: Arial;background-color:white;color:black;font-size: 12px">
+<input type=hidden name=Old_<?php echo $Circle;?>  value="<?php echo $row[$ii]['Circle'];?>">
+</td>
+<?php  $Circle_ass="Circle_ass".$rowcount; ?>
+<td align=center>
+<input type=text name="<?php echo $Circle_ass;?>" size=30    value="<?php echo $row[$ii]['Circle_ass'];?>" style="font-family: Arial;background-color:white;color:black;font-size: 18px">
+<input type=hidden name=Old_<?php echo $Circle_ass;?>  value="<?php echo $row[$ii]['Circle_ass'];?>">
+</td>
+</tr>
+<?php
+} //while
+$_SESSION['rowcount']=$rowcount;
+?>
+<tr><td align=right bgcolor=#FFFFCC>
+</td><td align=left bgcolor=#FFFFCC>
+<input type=submit value=Update  name=Save1>
+<input type=button value=Menu name=back1 id=back2 onclick=home()>
+</td></tr>
+</table>
+<?php
+}//$code==1
+if ($code==2) //PostBack Submit
+{
+//echo $_SESSION['rowcount'];
+for ($ind=1;$ind<=$_SESSION['rowcount'];$ind++)
+{
+$sql="update circle set ";
+$updcount=0;
+$oldCircle="Old_Circle".$ind;
+$Circle="Circle".$ind;
+
+$Circle=$_POST[$Circle];
+$oldCircle=$_POST[$oldCircle];
+
+if ($objUtility->validate($Circle))
+{
+if ($oldCircle!=$Circle)
+{
+$sql=$sql."Circle='".$Circle."',";
+$updcount++;
+}
+}
+$oldCircle_ass="Old_Circle_ass".$ind;
+$Circle_ass="Circle_ass".$ind;
+
+$Circle_ass=$_POST[$Circle_ass];
+$oldCircle_ass=$_POST[$oldCircle_ass];
+
+if ($objUtility->validate($Circle_ass))
+{
+if ($oldCircle_ass!=$Circle_ass)
+{
+$sql=$sql."Circle_ass='".$Circle_ass."',";
+$updcount++;
+}
+}
+$oldCir_code="Old_Cir_code".$ind;
+$Cir_code=$_POST[$oldCir_code];
+$sql=$sql."Cir_code='".$Cir_code."'";
+$sql=$sql." where ";
+$oldCir_code="Old_Cir_code".$ind;
+$oldCir_code=$_POST[$oldCir_code];
+$sql=$sql."Cir_code='".$oldCir_code."'";
+if ($updcount>0)
+{
+$res=$objCircle->ExecuteQuery($sql);
+echo $sql;
+if ($res) //Save as SQL Log
+{
+$objUtility->saveSqlLog("circle",$sql);
+echo "&nbsp;<font color=blue size=2 face=arial>Success</font><br>";
+}
+else
+{
+echo "&nbsp;<font color=red size=2 face=arial>Fail<br></font>";
+}
+} //$updcount>0
+}//for loop
+echo "<A href=Edit_circle.php?tag=0>Back</a>";
+}//code=2
+?>
+</form>
+</body>
+</html>

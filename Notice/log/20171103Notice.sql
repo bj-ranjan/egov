@@ -1,0 +1,11 @@
+update notice set Link_description='Quotation Submission date extended. girl''s school barbhag',Active='Y' where  1=1   and Slno='85';
+update notice set Link_description='Quotation Submission date extended.' where  1=1   and Slno='85';
+update notice set Active='N' where  1=1   and Slno='53';
+insert into notice(Slno,Link_file,Link_description,Active,Isnew) values (86,'./pdf/ddc.pdf','DDC Minutes dated JJJ','Y','Y');
+update notice set Uploaded_on='2017-11-03' where  1=1   and Slno='83';
+insert into notice(Slno,Link_file,Link_description,Active,Isnew,Uploaded_on) values (87,'./pdf/XXX','hhh','N','Y','2017-11-03');
+update notice set Link_description='NIT for Printing Works(XXX)',Active='Y' where  1=1   and Slno='5';
+update notice set Active='N' where  1=1   and Slno='1';
+insert into notice(Slno,Link_file,Link_description,Active,Isnew,Uploaded_on) values (86,'./pdf/aa.pdf','My new link and RMS','Y','Y','2017-11-03');
+insert into notice(Slno,Link_file,Link_description,Active,Isnew,Uploaded_on) values (87,'./pdf/minutes.pdf','DDC Minutes','Y','Y','2017-11-03');
+update notice set Link_description='DDC Minutes mfgfh' where  1=1   and Slno='87';
